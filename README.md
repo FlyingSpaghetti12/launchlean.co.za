@@ -1,4 +1,4 @@
-# launchclean.co.za — This will be seen be the Home Of launchclean.co.za
+# launchlean.co.za — This will be seen be the Home Of launchlean.co.za
 
 ---
 
